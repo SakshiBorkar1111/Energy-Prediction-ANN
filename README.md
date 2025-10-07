@@ -27,7 +27,7 @@ Approach & Evaluation:
 
 Dataset & Tools:
 
-•	Dataset: Combined Cycle Power Plant dataset (energy.csv)
+•	Dataset: Combined Cycle Power Plant dataset (energy.xlsx)
 
 •	Features: AT, V, AP, RH
 
