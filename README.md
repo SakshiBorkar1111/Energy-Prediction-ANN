@@ -11,6 +11,7 @@ Predict the energy output (PE) of a power plant using environmental features: am
 Approach & Evaluation:
 
 
+
 •	Model: Artificial Neural Network (ANN)
 
 •	Hidden Layers/Neurons: 1–2 layers, 6–7 neurons, ReLU activation
@@ -20,6 +21,7 @@ Approach & Evaluation:
 •	Metrics: MSE, R² Score
 
 •	The ANN effectively captures the relationship between inputs and energy output, minimizing prediction error.
+
 
 
 
@@ -35,6 +37,7 @@ Dataset & Tools:
 
 
 
+
 Preprocessing & EDA:
 
 •	Checked for missing values and outliers
@@ -44,6 +47,8 @@ Preprocessing & EDA:
 •	Scaled features using StandardScaler
 
 •	Train-test split (80/20)
+
+
 
 
 
