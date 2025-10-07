@@ -1,8 +1,6 @@
 Energy Prediction Using ANN
 
 
-
-
 Problem Statement
 Predict the energy output (PE) of a power plant using environmental features: ambient temperature (AT), exhaust vacuum (V), ambient pressure (AP), and relative humidity (RH). The goal is to understand how these factors influence energy production using historical data.
 
